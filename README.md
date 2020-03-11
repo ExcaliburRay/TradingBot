@@ -1,3 +1,3 @@
 # BitBotBoom
 
-This repository is only for real-time trading bot.`
+This repository is only for real-time trading bot.
