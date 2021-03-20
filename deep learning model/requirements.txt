@@ -85,7 +85,7 @@ ipywidgets==4.1.1
 isodate==0.6.0
 jdcal==1.4.1
 jedi==0.13.3
-Jinja2==2.8
+Jinja2==2.11.3
 jmespath==0.9.4
 joblib==0.13.2
 jsonlines==1.2.0
