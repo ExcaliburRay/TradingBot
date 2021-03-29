@@ -154,7 +154,7 @@ pycryptodome==3.9.0
 pydotplus==2.0.2
 pyenchant==2.0.0
 pyglet==1.3.2
-Pygments==2.0.2
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pyOpenSSL==19.0.0
 pyparsing==2.0.7
