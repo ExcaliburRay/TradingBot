@@ -44,7 +44,7 @@ decorator==4.0.6
 defusedxml==0.6.0
 demjson==2.2.4
 dill==0.3.0
-Django==2.2.5
+Django==2.2.22
 docutils==0.15.2
 empath==0.89
 entrypoints==0.3
