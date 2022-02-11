@@ -207,7 +207,7 @@ tornado==4.3
 tqdm==4.35.0
 traitlets==4.3.3
 treeinterpreter==0.2.2
-Twisted==19.7.0
+Twisted==22.1.0
 txaio==18.8.1
 typing==3.6.6
 typing-extensions==3.7.4
