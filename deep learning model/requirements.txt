@@ -148,7 +148,7 @@ psaw==0.0.7
 ptyprocess==0.5
 pyasn1==0.4.7
 pyasn1-modules==0.2.7
-pycares==3.0.0
+pycares==4.2.0
 pycparser==2.19
 pycryptodome==3.9.0
 pydotplus==2.0.2
