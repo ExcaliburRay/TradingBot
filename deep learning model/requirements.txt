@@ -87,7 +87,7 @@ jdcal==1.4.1
 jedi==0.13.3
 Jinja2==2.8
 jmespath==0.9.4
-joblib==0.13.2
+joblib==1.2.0
 jsonlines==1.2.0
 jsonpointer==2.0
 jsonschema==2.5.1
