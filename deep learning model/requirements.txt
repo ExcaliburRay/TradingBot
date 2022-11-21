@@ -193,7 +193,7 @@ tableschema==1.10.0
 tabulator==1.29.0
 tb-nightly==1.14.0a20190301
 tensorboard==2.0.1
-tensorflow==2.0.0
+tensorflow==2.9.3
 tensorflow-estimator==2.0.1
 tensortrade==0.0.1a3
 termcolor==1.1.0
